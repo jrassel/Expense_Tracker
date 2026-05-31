@@ -28,14 +28,6 @@ A simple Flutter application for tracking daily expenses using SharedPreferences
 - Form
 - TextFormField
 
-## Screenshots
-
-Add your app screenshots here after running the project.
-
-Example:
-
-![Home Screen](screenshots/home.png)
-![Add Expense](screenshots/add_expense.png)
 
 ## How to Run the Project
 
